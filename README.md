@@ -1,4 +1,5 @@
 # Weather Cast App
+# before deletion of source folder the app was installed on my phone. but that Can run only on my phone because i installed it by using USB (ADB apks cant run on other mobiles except the connceted one). i am sending you Images of my app. 
 - Sir, this was most challenging App for me. I have used your given api of openweather. But while uploding the app to the github i eventually deleted my project folder by mistake. So i lost my whole source code. 
 
 - I did that application in one day. i am feeling very awkward. All that work i was continuosly working for this app whole day. i got a call yesterday that deadline of your test is 30th june. So i thought i have this chance to prove myself that i can do things better. 
