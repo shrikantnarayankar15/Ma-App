@@ -1,5 +1,4 @@
 # Weather Cast App
-
 - Sir, this was most challenging App for me. I have used your given api of openweather. But while uploding the app to the github i eventually deleted my project folder by mistake. So i lost my whole source code. 
 
 - I did that application in one day. i am feeling very awkward. All that work i was continuosly working for this app whole day. i got a call yesterday that deadline of your test is 30th june. So i thought i have this chance to prove myself that i can do things better. 
@@ -15,3 +14,5 @@
 - Whether you will select me or not its not the point. But i liked to work on my app. I can develop same app within 1 day but today is the deadline for your test. Thank you sir.
 
 - but while testing the app which i installed on my mobile is i am uploding to u.
+
+# by mistake i deleted the source folder of project.
