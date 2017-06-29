@@ -13,3 +13,5 @@
 - final thing, i want to say that i did everything for this app. But my badlck that it was deleted by mistake.
 
 - Whether you will select me or not its not the point. But i liked to work on my app. I can develop same app within 1 day but today is the deadline for your test. Thank you sir.
+
+- but while testing the app which i installed on my mobile is i am uploding to u.
